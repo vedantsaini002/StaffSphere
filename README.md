@@ -51,7 +51,7 @@ StaffSphere/
 │
 └── README.md
 ```
-
+```
               Admin Login
                    │
                    ▼
@@ -69,7 +69,6 @@ StaffSphere/
              │
     ┌────────┼────────┐
     ▼        ▼        ▼
-```
    Add      View    Search
     │        │        │
     └────────┼────────┘
