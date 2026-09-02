@@ -98,13 +98,3 @@ StaffSphere/
 ### Remove Employee
 ![Remove Employee](screenshots/remove-employee.png)
 
-
-
-
-
-* GitHub: [Your GitHub Profile](https://github.com/your-username)
-* LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile/)
-
-## 📄 License
-
-This project is created for **educational and portfolio purposes**.
