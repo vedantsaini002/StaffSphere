@@ -1,1 +1,36 @@
+-- MySQL Database
 
+CREATE DATABASE IF NOT EXISTS employeemanagement;
+
+USE employeemanagement;
+
+-- Admin Login Table
+CREATE TABLE IF NOT EXISTS login (
+    username VARCHAR(20),
+    password VARCHAR(20)
+);
+
+-- Sample Admin Credentials
+INSERT INTO login (username, password)
+VALUES ('admin', 'your_password');
+
+-- Employee Details Table
+CREATE TABLE IF NOT EXISTS employee (
+    name VARCHAR(40),
+    fname VARCHAR(40),
+    dob VARCHAR(40),
+    salary VARCHAR(40),
+    address VARCHAR(40),
+    phone VARCHAR(40),
+    email VARCHAR(40),
+    education VARCHAR(40),
+    designation VARCHAR(40),
+    aadhar VARCHAR(40),
+    empID VARCHAR(40)
+);
+
+-- Check Admin Login Data
+SELECT * FROM login;
+
+-- Check Employee Data
+SELECT * FROM employee;
