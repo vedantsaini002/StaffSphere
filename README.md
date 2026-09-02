@@ -22,7 +22,7 @@ A desktop-based **Employee Management System** developed using **Java Swing, AWT
 
 ## 📂 Project Structure
 
-```text
+```
 StaffSphere/
 │
 ├── icons/
@@ -37,12 +37,17 @@ StaffSphere/
 │   ├── View_Employee.java
 │   └── conn.java
 │
-│
-├── icons/
-│   └── *.png
+├── screenshots/
+│   ├── splash.png
+│   ├── login.png
+│   ├── dashboard.png
+│   ├── add-employee.png
+│   ├── view-employee.png
+│   ├── update-employee.png
+│   └── remove-employee.png
 │
 ├── database/
-│   └── employee_management.sql
+│   └── employeemanagement.sql
 │
 └── README.md
 ```
@@ -64,6 +69,7 @@ StaffSphere/
              │
     ┌────────┼────────┐
     ▼        ▼        ▼
+```
    Add      View    Search
     │        │        │
     └────────┼────────┘
@@ -72,7 +78,7 @@ StaffSphere/
              │
              ▼
           MySQL
-
+```
 
 ## 📸 Screenshots
 
