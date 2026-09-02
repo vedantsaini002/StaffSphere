@@ -72,7 +72,7 @@ StaffSphere/
              │
              ▼
           MySQL
-```
+
 
 ## 📸 Screenshots
 
